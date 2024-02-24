@@ -14,3 +14,7 @@ Bu proje, yukarıda belirtilen iki kişi tarafından, yüz yüze işbirliğiyle 
 (Not: Bu proje öncelikle pilot kütüphanelerde başlatılarak yaygınlaştırılabilir)
 (Not: Açıkyeşil data setleri arasında Kütüphaneler ile ilgili data mevcut olmadığı için API kullanılmamıştır, bilgiler tarafımızdan eklenmiştir.)
 (Not: Her kütüphanede bulunan her masaya konulacak 	QR kod sayesinde we siteye kolayca ulaşım sağlanarak doluluk ve boşluk durumu kontrol edilebilinecektir.)
+
+
+QR KOD LİNKİ: https://www.canva.com/design/DAF9s3GYg38/_dYvniWdD9tFy2LBBmtU7A/view?utm_content=DAF9s3GYg38&utm_campaign=designshare&utm_medium=link&utm_source=editor
+VERCEL LİNKİ: https://proje-son-senas-projects-7b140798.vercel.app/
